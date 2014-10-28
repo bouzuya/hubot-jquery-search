@@ -1,6 +1,6 @@
 {
   "name": "hubot-jquery-search",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that search jQuery API from api.jquery.com",
   "main": "index.js",
   "scripts": {
